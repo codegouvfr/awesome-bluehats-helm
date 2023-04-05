@@ -5,7 +5,7 @@ Helm repos et resources utiles autour de Helm maintenu par la commuautée BlueHa
 ## CodeGouv (Mission logiciel libre de la DINUM)
 
 - Logiciels développer par la mission: https://github.com/codegouvfr/helm-charts  
-  Se dépot constitue un bon template pour démarer un dépot de chart Helm (vous pouvez copier le Workflow GitHub Action).   
+  Ce dépot constitue un bon template pour démarer un dépot de chart Helm (vous pouvez copier le Workflow GitHub Action).   
 
 ## INSEE (Equipe innovation de la direction général de l'INSEE)  
 
