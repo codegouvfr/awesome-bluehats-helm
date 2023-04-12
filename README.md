@@ -24,3 +24,6 @@ A voir aussi, guide d'installation a partir de 0 d'Onyxia: https://docs.onyxia.s
 
 - HELM Charts réutilisables : https://github.com/SocialGouv/helm-charts/
 
+## PCLL (Pôle de Compétences Logiciels Libres du [MENJ](https://www.education.gouv.fr/))
+
+- [Helm charts](https://gitlab.mim-libre.fr/search?search=helm-chart&group_id=11) de la [distribution EOLE³](https://wiki.eole.education/fr/pr%C3%A9sentation) utilisée pour déployer [apps.education.fr](https://apps.education.fr)
