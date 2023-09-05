@@ -23,7 +23,8 @@ Ce dépot constitue un bon template pour démarrer un dépot de chart Helm (vous
 
 ## Socialgouv - Fabrique numérique des ministères sociaux
 
-- HELM Charts réutilisables : https://github.com/SocialGouv/helm-charts/
+- HELM Charts réutilisables : https://github.com/SocialGouv/helm-charts
+- Générateur de `values.schema.json` : https://github.com/SocialGouv/helm-schema
 
 ## PCLL - Pôle de Compétences Logiciels Libres du [MENJS](https://www.education.gouv.fr/)
 
